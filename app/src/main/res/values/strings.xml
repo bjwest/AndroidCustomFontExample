@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Custom Font Example</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Font file in app/src/main/assets/fonts directory-->
+    <string name="custom_font">fonts/Silent Reaction.ttf</string>
+</resources>
